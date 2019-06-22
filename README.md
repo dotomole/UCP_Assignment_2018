@@ -1,4 +1,4 @@
-# UCP Assignment - Terminal based "turtle" graphics
+# Terminal based "turtle" graphics
 Our task was to test and debug a program to draw terminal-based "turtle" graphics.
 
 To run: just run make, then
